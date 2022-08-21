@@ -1,0 +1,77 @@
+## **8/21 SUN**
+
+## 🌕시작시간 : 07:35
+
+## 🌑종료시간 : 23:59
+
+### ⏰***공부시간 09H 37M***
+
+- [x]  스프링 05:15
+- [x]  컴공필수 03:30
+- [x]  DB 00:52
+
+## 🧐오늘 한일
+
+- [x]  DB SQL 첫걸음
+- [x]  기술면접 주요질문 강의 및 정리 - 복습 및 추가
+- [ ]  프로그래머스 1단계 1문제 이상풀기
+- [x]  스프링 부트 쇼핑몰 프로젝트 with JPA
+
+## 🔥내일계획표
+
+- [ ]  DB SQL 첫걸음
+- [ ]  git 강의 시작
+- [ ]  기술면접 주요질문 강의 및 정리 - 복습 및 추가
+- [ ]  스프링 부트 쇼핑몰 프로젝트 with JPA
+- [ ]  알고리즘/문제풀이
+
+## **🤙Daily**
+
+***👊알고리즘 새로운 문제 풀기 - 1문제라도!***
+
+***👊알고리즘 문제 블로그 정리***
+
+***👊컴공지식은  1시간 이상***
+
+***👊 모르는건 복습 또 복습***
+
+## **💁‍♂️ 오늘의 짧은 회고**
+
+제로베이스 시작 D+55
+제로베이스 종강 D-124
+
+---
+
+8/20
+
+1. 시큐리티 설정 - Maven , config class 생성 
+2. Role 생성 - User 종류 ( USER, ADMIN)
+3. MemberFormDTO 생성 - 회원가입 Dto
+4. Member Entity 클래스 생성
+5. MemberRepository 생성
+6. MemberService 생성 → 저장 메서드 ( email 중복체크)
+7. TEST 진행 → 저장 메서드 및 email 중복가입 테스트
+8. 회원가입 페이지 작성 / main 페이지 작성 
+9. 회원가입페이지에서 서버로 넘어오는 값 검증 하기 위한 validation 의존성 추가
+
+로그인 로그아웃 구현
+
+1.  UserDatailsService 인터페이스 implement → (내장되어있다.)
+2.  loadUserByUsername() 메소드 존재, 회원 정보를 조회해서 사용자의 정보와 권한을 갖는 UserDetails 인터페이스를 반환한다
+3. MemberService 클래스에 loadUserByUsername() 구현
+4. SecurityConfig 설정
+5. memberLoginForm 생성 
+6. MemberContoller 로그인페이지 이동 추가
+7. TEST 진행 → spring-security-test 의존성 pom.xml에 추가
+8. TEST → 로그인 성공테스트, 로그인 실패테스트 → MockMvc 사용
+9. thymeleaf-extras-wpringsecurity5 추가 → 로그인하면 로그인 안보이게, 상품등록은 관리자만가능하게 등등
+10. ADMIN 계정만 접근할 수 있는 상품 등록페이지 생성 itemForm.html
+11. 상품등록페이지에 접근할 수 있도록 ItemController 생성
+12. CustomAuthenticationEntryPoint.class 생성 → ajax 경우 
+13. SecurityConfig 내용 추가 → 허용 클래스 및 파일 / admin 접근가능 설정
+14. 유저 접근제한 테스트 ( amdin 일때, user일 때 )  withMockUser 사용
+
+연관관계 매핑
+
+1. 장바구니와 회원 일대일 단방향관계 매핑  ( 테스트를 통해 장바구니를 조회할 때, 회원 엔티티도 같이 조회하는지 확인) * OnetoTOne 과 ManyToOne 은 자동으로 Fetch.eagle 전략이다.
+2. 다대다 관계는 다대일 일대다 관계로 풀어낸다.
