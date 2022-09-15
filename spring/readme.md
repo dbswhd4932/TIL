@@ -6,6 +6,9 @@
 * [Gradle / Maven](https://josteady.tistory.com/654)
 * [디자인패턴 간략히 알아보기](https://josteady.tistory.com/655)
 * [REST API에 대해](https://josteady.tistory.com/656)
+* [API를 작성하는 다양한 방법](https://josteady.tistory.com/662)
+* [Lombok 알고 사용하자!](https://josteady.tistory.com/663)
+* [ORM 이란 무엇일까?](https://josteady.tistory.com/664)
 
 
 <br>
