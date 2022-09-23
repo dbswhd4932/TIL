@@ -11,8 +11,11 @@
 * [데이터베이스 스키마 자동 생성](https://josteady.tistory.com/680)
 * [필드와 컬럼 매핑](https://josteady.tistory.com/681)
 * [연관 관계 매핑](https://josteady.tistory.com/686)
+* [상속관계 매핑 (@Inheritance , @DiscriminatorColumn)](https://josteady.tistory.com/688)
+
 
 
 ## ..
 
 * [JPA 에서 제공하는 쿼리 메소드](https://josteady.tistory.com/645)
+* [Querydsl 설정](https://josteady.tistory.com/687)
