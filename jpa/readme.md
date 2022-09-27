@@ -12,6 +12,10 @@
 * [필드와 컬럼 매핑](https://josteady.tistory.com/681)
 * [연관 관계 매핑](https://josteady.tistory.com/686)
 * [상속관계 매핑 (@Inheritance , @DiscriminatorColumn)](https://josteady.tistory.com/688)
+* [JPA 프록시](https://josteady.tistory.com/691)
+* [즉시로딩 지연로딩](https://josteady.tistory.com/692)
+* [JPQL - Query타입, 결과조회, 파라미터, 프로젝션, 페이징, 조인](https://josteady.tistory.com/693)
+
 
 
 
