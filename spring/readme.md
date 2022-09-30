@@ -19,5 +19,5 @@
 
 <br>
 
-# 👨‍💻스프링부트 설정
+# 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
