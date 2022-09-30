@@ -1,4 +1,4 @@
-# 👨‍💻스프링부트
+# 👨‍💻스프링
 * [swagger 적용](https://josteady.tistory.com/642?category=1028669)
 * [JUnit 테스트 생명주기](https://josteady.tistory.com/644?category=1028669)
 * [@JsonIgnore @JsonIgnoreProperties](https://josteady.tistory.com/476?category=1028669)
@@ -13,6 +13,7 @@
 * [ORM 이란 무엇일까?](https://josteady.tistory.com/664)
 * [유효성 검사(Validation)](https://josteady.tistory.com/683)
 * [연관 관계가 필요한 이유](https://josteady.tistory.com/684)
+* [RESTful Web Services 이해](https://josteady.tistory.com/698)
 
 
 
