@@ -16,6 +16,7 @@
 * [RESTful Web Services 이해](https://josteady.tistory.com/698)
 * [HTTP 메서드 종류](https://josteady.tistory.com/699)
 * [@Builder 빌더패턴](https://josteady.tistory.com/700)
+* [createDelegatingPasswordEncoder](https://josteady.tistory.com/704)
 
 
 
@@ -23,3 +24,8 @@
 
 # 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
+
+<br>
+
+# 👨‍💻지식
+* [Integer 와 int 차이](https://josteady.tistory.com/703)
