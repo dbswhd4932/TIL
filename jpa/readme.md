@@ -15,6 +15,8 @@
 * [JPA 프록시](https://josteady.tistory.com/691)
 * [즉시로딩 지연로딩](https://josteady.tistory.com/692)
 * [JPQL - Query타입, 결과조회, 파라미터, 프로젝션, 페이징, 조인](https://josteady.tistory.com/693)
+* [트랜잭션(Transaction) 이란?](https://josteady.tistory.com/702)
+
 
 
 
