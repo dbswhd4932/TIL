@@ -1,5 +1,4 @@
 # 👨‍💻JPA
-## 자바 ORM 표준 JPA 프로그래밍 - 기본편
 * [JPA 동작원리](https://josteady.tistory.com/671)
 * [영속성 컨텍스트 - 엔티티 생명주기](https://josteady.tistory.com/672)
 * [영속성 컨텍스트 - 1차 캐시](https://josteady.tistory.com/673)
@@ -18,10 +17,9 @@
 * [트랜잭션(Transaction) 이란?](https://josteady.tistory.com/702)
 
 
-
-
-
-## ..
+# 👨‍💻JPA++
 
 * [JPA 에서 제공하는 쿼리 메소드](https://josteady.tistory.com/645)
 * [Querydsl 설정](https://josteady.tistory.com/687)
+* [쿼리메소드 - 정렬처리](https://josteady.tistory.com/708)
+* [JPQL 과 QueryDsl 의 차이 (기초)](https://josteady.tistory.com/709)
