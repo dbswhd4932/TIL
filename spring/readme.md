@@ -12,20 +12,21 @@
 * [Logback 설정 + 테스트](https://josteady.tistory.com/682)
 * [ORM 이란 무엇일까?](https://josteady.tistory.com/664)
 * [유효성 검사(Validation)](https://josteady.tistory.com/683)
+* [@valid 를 사용해보자 (유효성 검사)](https://josteady.tistory.com/719)
 * [연관 관계가 필요한 이유](https://josteady.tistory.com/684)
 * [RESTful Web Services 이해](https://josteady.tistory.com/698)
 * [HTTP 메서드 종류](https://josteady.tistory.com/699)
 * [@Builder 빌더패턴](https://josteady.tistory.com/700)
+* [@Controller 와 @RestController 의 원리](https://josteady.tistory.com/720)
 
-
-
-
-<br>
+# 👨‍💻시큐리티
+* [스프링 시큐리티 소개](https://josteady.tistory.com/658)
+* [스프링 시큐리티 설정 추가](https://josteady.tistory.com/659)
+* [createDelegatingPasswordEncoder](https://josteady.tistory.com/704)
+* [세션(서버) 기반 VS 토큰 기반 차이](https://josteady.tistory.com/721)
 
 # 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
-
-<br>
 
 # 👨‍💻지식
 * [Integer 와 int 차이](https://josteady.tistory.com/703)
