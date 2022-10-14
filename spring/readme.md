@@ -18,6 +18,8 @@
 * [HTTP 메서드 종류](https://josteady.tistory.com/699)
 * [@Builder 빌더패턴](https://josteady.tistory.com/700)
 * [@Controller 와 @RestController 의 원리](https://josteady.tistory.com/720)
+* [DispatchServlet(디스패처 서블릿) 에 대해 알아보자.](https://josteady.tistory.com/722)
+* [빈을 등록하기 위한 방법 @Configuraion, @Bean, @Component](https://josteady.tistory.com/723)
 
 # 👨‍💻시큐리티
 * [스프링 시큐리티 소개](https://josteady.tistory.com/658)
