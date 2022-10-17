@@ -21,6 +21,10 @@
 * [DispatchServlet(디스패처 서블릿) 에 대해 알아보자.](https://josteady.tistory.com/722)
 * [빈을 등록하기 위한 방법 @Configuraion, @Bean, @Component](https://josteady.tistory.com/723)
 
+# 👨‍💻DB
+* [트랜잭션 전파](https://josteady.tistory.com/694)
+* [트랜잭션 전파 - REQUIRES_NEW](https://josteady.tistory.com/696)
+
 # 👨‍💻시큐리티
 * [스프링 시큐리티 소개](https://josteady.tistory.com/658)
 * [스프링 시큐리티 설정 추가](https://josteady.tistory.com/659)
