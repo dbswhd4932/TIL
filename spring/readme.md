@@ -28,7 +28,6 @@
 # 👨‍💻시큐리티
 * [스프링 시큐리티 소개](https://josteady.tistory.com/658)
 * [스프링 시큐리티 설정 추가](https://josteady.tistory.com/659)
-* [createDelegatingPasswordEncoder](https://josteady.tistory.com/704)
 * [세션(서버) 기반 VS 토큰 기반 차이](https://josteady.tistory.com/721)
 
 # 👨‍💻설정
