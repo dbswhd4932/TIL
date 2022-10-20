@@ -15,6 +15,7 @@
 * [즉시로딩 지연로딩](https://josteady.tistory.com/692)
 * [JPQL - Query타입, 결과조회, 파라미터, 프로젝션, 페이징, 조인](https://josteady.tistory.com/693)
 * [트랜잭션(Transaction) 이란?](https://josteady.tistory.com/702)
+* [fetch join (패치조인) 을 사용 시 쿼리의 변화](https://josteady.tistory.com/734)
 
 
 # 👨‍💻JPA++
