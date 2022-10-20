@@ -4,3 +4,4 @@
 * [데이터베이스(DB) 데이터 분류 (형태,특성)](https://josteady.tistory.com/m/730)
 * [데이터베이스(DB) 는 왜 등장했을까?](https://josteady.tistory.com/731)
 * [데이터베이스(DB) 스키마](https://josteady.tistory.com/732)
+* [데이터베이스(DB) 데이터 언어](https://josteady.tistory.com/736)
