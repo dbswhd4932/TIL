@@ -29,6 +29,8 @@
 * [스프링 시큐리티 소개](https://josteady.tistory.com/658)
 * [스프링 시큐리티 설정 추가](https://josteady.tistory.com/659)
 * [세션(서버) 기반 VS 토큰 기반 차이](https://josteady.tistory.com/721)
+* [JWT (Json Web Token) 의 개념](https://josteady.tistory.com/733)
+* [SpringSecurity DB 없이 테스트 방법](https://josteady.tistory.com/735)
 
 # 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
