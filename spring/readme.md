@@ -31,6 +31,8 @@
 * [세션(서버) 기반 VS 토큰 기반 차이](https://josteady.tistory.com/721)
 * [JWT (Json Web Token) 의 개념](https://josteady.tistory.com/733)
 * [SpringSecurity DB 없이 테스트 방법](https://josteady.tistory.com/735)
+* [SpringSecurity 와 JWT 의 구조, 동작 과정](https://josteady.tistory.com/739)
+* [SpringSecurity + JWT 구현하기](https://josteady.tistory.com/740)
 
 # 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
