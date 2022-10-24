@@ -20,6 +20,7 @@
 * [@Controller 와 @RestController 의 원리](https://josteady.tistory.com/720)
 * [DispatchServlet(디스패처 서블릿) 에 대해 알아보자.](https://josteady.tistory.com/722)
 * [빈을 등록하기 위한 방법 @Configuraion, @Bean, @Component](https://josteady.tistory.com/723)
+* [@Bean 과 @Component 비교](https://josteady.tistory.com/742)
 
 # 👨‍💻DB
 * [트랜잭션 전파](https://josteady.tistory.com/694)
