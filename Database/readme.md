@@ -7,3 +7,4 @@
 * [데이터베이스(DB) 데이터 언어](https://josteady.tistory.com/736)
 * [데이터베이스(DB) 데이터 모델](https://josteady.tistory.com/738)
 * [데이터베이스(DB) 관계 데이터 모델 개념](https://josteady.tistory.com/741)
+* [데이터베이스(DB) 설계](https://josteady.tistory.com/744)
