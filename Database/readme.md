@@ -8,3 +8,5 @@
 * [데이터베이스(DB) 데이터 모델](https://josteady.tistory.com/738)
 * [데이터베이스(DB) 관계 데이터 모델 개념](https://josteady.tistory.com/741)
 * [데이터베이스(DB) 설계](https://josteady.tistory.com/744)
+* [데이터베이스(DB) 정규화는 왜 필요할까?](https://josteady.tistory.com/747)
+* [데이터베이스(DB) 기본 정규형과 정규화 과정](https://josteady.tistory.com/748)
