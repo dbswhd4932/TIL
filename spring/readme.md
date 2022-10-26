@@ -1,4 +1,5 @@
 # 👨‍💻스프링
+* [Ioc(Inversion of Control) 제어의 역전이란?](https://josteady.tistory.com/745)
 * [swagger 적용](https://josteady.tistory.com/642?category=1028669)
 * [JUnit 테스트 생명주기](https://josteady.tistory.com/644?category=1028669)
 * [@JsonIgnore @JsonIgnoreProperties](https://josteady.tistory.com/476?category=1028669)
@@ -21,6 +22,7 @@
 * [DispatchServlet(디스패처 서블릿) 에 대해 알아보자.](https://josteady.tistory.com/722)
 * [빈을 등록하기 위한 방법 @Configuraion, @Bean, @Component](https://josteady.tistory.com/723)
 * [@Bean 과 @Component 비교](https://josteady.tistory.com/742)
+* [AOP 란 무엇인가? + 예제](https://josteady.tistory.com/746)
 
 # 👨‍💻DB
 * [트랜잭션 전파](https://josteady.tistory.com/694)
