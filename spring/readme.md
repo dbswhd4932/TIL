@@ -40,5 +40,6 @@
 # 👨‍💻설정
 * [application.yml 에서 JPA 설정](https://josteady.tistory.com/643?category=1028669)
 
-# 👨‍💻지식
+# 👨‍💻ETC
 * [Integer 와 int 차이](https://josteady.tistory.com/703)
+* [docker 기초명령어](https://josteady.tistory.com/750)
