@@ -17,6 +17,7 @@
 * [트랜잭션(Transaction) 이란?](https://josteady.tistory.com/702)
 * [fetch join (패치조인) 을 사용 시 쿼리의 변화](https://josteady.tistory.com/734)
 * [@Convert - T타입 + Map 사용하기](https://josteady.tistory.com/771)
+* [JPA 순환 참조 해결해보기](https://josteady.tistory.com/776)
 
 
 # 👨‍💻JPA++
